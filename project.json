@@ -1,0 +1,14 @@
+{
+  "name": "DevOpsPulse_AI",
+  "description": "Autonomous AI Agent for DevOps log healing",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "2026.4.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "exceptionHandlerWorkflow": ""
+  },
+  "projectType": "Workflow"
+}
